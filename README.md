@@ -1,1 +1,2 @@
-# Hue_Perserving_Based_Approach_For_Underwater_Color_Image_Enhancement
+# Hue Perserving Based Approach For Underwater Color Image Enhancement
+This MATLAB code is for the paper Hue Perserving Based Approach For Underwater Color Image Enhancement.
