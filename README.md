@@ -3,7 +3,7 @@
 
 1. This code is for the paper: 
 
-   Hue Perserving Based Approach For Underwater Colour Image Enhancement
+   Hue Perserving-based Approach For Underwater Colour Image Enhancement
 
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
