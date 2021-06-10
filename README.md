@@ -1,4 +1,4 @@
-# Hue Perserving Based Approach For Underwater Color Image Enhancement
+# Hue Perserving-based Approach For Underwater Color Image Enhancement
 # Code-for-HP-method
 
 1. This code is for the paper: 
@@ -11,7 +11,7 @@ It can only be used for non-comercial purpose. If you use our code, please cite 
 
 3. Usage:
 
-(1) All the test images are put into file '\images'
+(1) All the test images are put into file '\images'.
 
 
 (2) Please run demo.m file to see the result.
