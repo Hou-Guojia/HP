@@ -3,7 +3,7 @@
 
 1. This code is for the paper: 
 
-   G.J Hou: G. Hou, Z. Pan, B. Huang, G. Wang, and X. Luan, "Hue preserving-based approach for underwater colour image enhancement," IET Image Process., vol. 12, no. 2, pp. 292-      298, 2018.
+   G. Hou, Z. Pan, B. Huang, G. Wang, and X. Luan, "Hue preserving-based approach for underwater colour image enhancement," IET Image Process., vol. 12, no. 2, pp. 292-      298,    2018.
 
 
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
